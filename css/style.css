@@ -11,3 +11,12 @@
   margin-top: 50px;
    margin-bottom: 50px;
 }
+.service {
+    background-image: url('../images/s_image.jpg');
+    color: #fff;
+    margin-bottom: 50px;
+    background-position: center;
+    padding-top: 120px;
+    padding-bottom: 80px;
+    background-size: cover;
+}
