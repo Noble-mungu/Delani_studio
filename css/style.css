@@ -1,0 +1,9 @@
+.Header{
+    background-image: url('../images/foot.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding-top: 230px;
+    text-transform: uppercase;
+}
