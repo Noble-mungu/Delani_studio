@@ -10,7 +10,7 @@ $(document).ready(function(){
         $(this).children(".card-1").fadeToggle('fast', "linear");
       });
       });
-      event.preventDefault();
+      
       $('form#myForm').submit(function(){
      var name = $('#name').val();
      var pass = $('#email').val();
@@ -25,4 +25,3 @@ $(document).ready(function(){
 
 });
 });
-© 2020 GitHub, Inc.
