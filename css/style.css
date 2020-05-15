@@ -20,3 +20,9 @@
     padding-bottom: 80px;
     background-size: cover;
 }
+#contact {
+    background-image: url('../images/c_image.jpg');
+    background-size: cover;
+    background-position: cover;
+    margin-top: 50px;
+}
